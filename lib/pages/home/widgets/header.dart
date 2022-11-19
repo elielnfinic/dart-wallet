@@ -3,7 +3,7 @@ import 'dart:ui';
 import 'package:flutter/material.dart';
 
 class Header extends StatefulWidget {
-  State<Header> createState() => HeaderState();
+  State<Header> createState() => HeaderState()
 }
 
 class HeaderState extends State<Header> {
